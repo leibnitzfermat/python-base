@@ -17,7 +17,7 @@ Execução:
     ./hello.py
 """
 __version__ = "0.0.1"
-__auton__ = "Bruno Rocha"
+__auton__ = "Leibnitz Fermat"
 __license__ = "Unlicense"
 
 import os
